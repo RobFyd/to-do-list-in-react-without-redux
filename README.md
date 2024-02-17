@@ -1,3 +1,24 @@
+# Task List
+![task list]()
+
+## Demo
+https://
+
+## Description
+The task list provided here allows you to:
+- writing out new tasks
+- checkmarking chosen tasks
+- deleting chosen tasks
+
+## Technologies
+- BEM
+- HTML
+- CSS
+- Flexbox
+- JavaScript
+- React
+- Styled Components
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
